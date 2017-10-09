@@ -1,3 +1,4 @@
+package javaTests;
 import java.util.Scanner;
 
 public class Solution5 {
