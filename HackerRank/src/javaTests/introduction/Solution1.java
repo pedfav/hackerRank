@@ -1,4 +1,4 @@
-package javaTests;
+package javaTests.introduction;
 
 public class Solution1 {
 

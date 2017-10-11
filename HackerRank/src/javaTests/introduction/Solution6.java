@@ -1,4 +1,4 @@
-package javaTests;
+package javaTests.introduction;
 import java.io.*;
 import java.util.*;
 import java.text.*;

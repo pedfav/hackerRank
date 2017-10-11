@@ -1,4 +1,4 @@
-package javaTests;
+package javaTests.introduction;
 import java.util.*;
 
 public class Solution2 {
