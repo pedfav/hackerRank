@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db9cc53-ff8d-4d94-b27f-598c07d96857" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution10/UsernameValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution8/MyRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_1/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution11/DoNotTerminate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution11/JavaIntToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/ThirtyDaysOfCode/DayOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/DoNotTerminate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/DoNotTerminate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/javaTests/introduction/Solution9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution1/JavaStringsIntroduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution2/JavaSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution3/JavaSubstringComparisons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution4/JavaStringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution5/JavaAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution6/JavaStringTokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution7/PatternSyntaxChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution8/JavaRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution9/JavaRegex2_DuplicatedWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/Strings/ValidUsernameRegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution1/WelcomeToJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution10/JavaStaticInitializerBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution12/JavaDateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution13/JavaCurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution2/JavaStdinAndStdoutI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution3/JavaIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution4/JavaStdinAndStdoutII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution6/JavaLoopsI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution7/javaLoopsII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution8/JavaDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution9/JavaEndOfFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerRank.iws" beforeDir="false" afterPath="$PROJECT_DIR$/hackerRank.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_1/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_1/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,20 +15,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ValidUsernameRegularExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java">
+      <file leaf-file-name="JavaStaticInitializerBlock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution10/JavaStaticInitializerBlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="-75">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsernameValidator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/UsernameValidator.java">
+      <file leaf-file-name="JavaIntToString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/JavaIntToString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="240">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoNotTerminate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/DoNotTerminate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="e#406#675#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,7 +69,6 @@
         <option value="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution1/Solution1.java" />
         <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution4/JavaStdinAndStdoutII.java" />
-        <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" />
         <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution11/Solution11.java" />
         <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution11/DoNotTerminate.java" />
         <option value="$PROJECT_DIR$/src/javaTests/Strings/Solution1/Solution1.java" />
@@ -109,6 +76,8 @@
         <option value="$PROJECT_DIR$/src/javaTests/Strings/Solution8/Solution8.java" />
         <option value="$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java" />
         <option value="$PROJECT_DIR$/src/javaTests/Strings/Solution10/UsernameValidator.java" />
+        <option value="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_1/DataTypes.java" />
+        <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" />
       </list>
     </option>
   </component>
@@ -126,6 +95,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,22 +120,20 @@
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="introduction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution10" type="462c0819:PsiDirectoryNode" />
+              <item name="introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -196,64 +165,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTests.ThirtyDaysOfCode.Day_0.HelloWorld" />
+  <component name="RunManager" selected="Application.JavaDateAndTime">
+    <configuration name="JavaDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduction.Solution8.JavaDataTypes" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTests.ThirtyDaysOfCode.Day_0.*" />
+          <option name="PATTERN" value="introduction.Solution8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaCurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTests.introduction.Solution13.JavaCurrencyFormatter" />
+    <configuration name="JavaDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduction.Solution12.JavaDateAndTime" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTests.introduction.Solution1.*" />
+          <option name="PATTERN" value="introduction.Solution12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JavaLoopsI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduction.Solution6.JavaLoopsI" />
+      <module name="hackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introduction.Solution6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="JavaOutputFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTests.introduction.Solution5.JavaOutputFormatting" />
+      <option name="MAIN_CLASS_NAME" value="introduction.Solution5.JavaOutputFormatting" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTests.introduction.Solution5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ValidUsernameRegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTests.Strings.Solution10.ValidUsernameRegularExpression" />
-      <module name="hackerRank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTests.ThirtyDaysOfCode.Day_0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WelcomeToJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTests.introduction.Solution1.WelcomeToJava" />
-      <module name="hackerRank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTests.introduction.Solution1.*" />
+          <option name="PATTERN" value="introduction.Solution5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="javaLoopsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introduction.Solution7.javaLoopsII" />
+      <module name="hackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="introduction.Solution7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -294,19 +263,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.WelcomeToJava" />
-      <item itemvalue="Application.JavaCurrencyFormatter" />
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.ValidUsernameRegularExpression" />
       <item itemvalue="Application.JavaOutputFormatting" />
+      <item itemvalue="Application.JavaLoopsI" />
+      <item itemvalue="Application.javaLoopsII" />
+      <item itemvalue="Application.JavaDataTypes" />
+      <item itemvalue="Application.JavaDateAndTime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaDateAndTime" />
+        <item itemvalue="Application.JavaDataTypes" />
+        <item itemvalue="Application.javaLoopsII" />
+        <item itemvalue="Application.JavaLoopsI" />
         <item itemvalue="Application.JavaOutputFormatting" />
-        <item itemvalue="Application.ValidUsernameRegularExpression" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.JavaCurrencyFormatter" />
-        <item itemvalue="Application.WelcomeToJava" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +293,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="25" width="1861" height="1055" extended-state="6" />
+    <frame x="49" y="25" width="1311" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="8" />
@@ -335,12 +304,12 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="7" />
@@ -348,17 +317,31 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/UsernameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution4/JavaStdinAndStdoutII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -464,13 +447,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/teste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/teste.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -478,31 +455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_1/DataTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution1/WelcomeToJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution6/JavaLoopsI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution7/javaLoopsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -517,76 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution4/JavaStdinAndStdoutII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution2/JavaStdinAndStdoutI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution3/JavaIfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/DoNotTerminate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution8/JavaDataTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/JavaIntToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution9/JavaEndOfFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution10/JavaStaticInitializerBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution1/JavaStringsIntroduction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -653,6 +539,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/UsernameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -660,10 +553,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/UsernameValidator.java">
+    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_1/DataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="222">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution1/JavaStringsIntroduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution2/JavaStdinAndStdoutI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution3/JavaIfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution4/JavaStdinAndStdoutII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution6/JavaLoopsI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution7/javaLoopsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution8/JavaDataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution9/JavaEndOfFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution10/JavaStaticInitializerBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/DoNotTerminate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#406#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/JavaIntToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
