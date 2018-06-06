@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db9cc53-ff8d-4d94-b27f-598c07d96857" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hackerRank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTests/Strings/ValidUsernameRegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/DayOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="DayOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/DayOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidUsernameRegularExpression.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/ValidUsernameRegularExpression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -62,6 +71,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +87,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/javaTests/introduction/Solution1.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/DayOne.java" />
+        <option value="$PROJECT_DIR$/src/javaTests/Strings/ValidUsernameRegularExpression.java" />
       </list>
     </option>
   </component>
@@ -97,6 +115,24 @@
             <path>
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +163,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution13">
+  <component name="RunManager" selected="Application.ValidUsernameRegularExpression">
+    <configuration name="DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTests.ThirtyDaysOfCode.DayOne" />
+      <module name="hackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTests.ThirtyDaysOfCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaTests.introduction.Solution1" />
       <module name="hackerRank" />
@@ -146,6 +193,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaTests.introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ValidUsernameRegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTests.Strings.ValidUsernameRegularExpression" />
+      <module name="hackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTests.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,9 +252,13 @@
     <list>
       <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution13" />
+      <item itemvalue="Application.DayOne" />
+      <item itemvalue="Application.ValidUsernameRegularExpression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidUsernameRegularExpression" />
+        <item itemvalue="Application.DayOne" />
         <item itemvalue="Application.Solution13" />
         <item itemvalue="Application.Solution1" />
       </list>
@@ -314,6 +376,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -321,10 +390,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/DayOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/ValidUsernameRegularExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -345,7 +421,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
