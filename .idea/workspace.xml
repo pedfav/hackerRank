@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db9cc53-ff8d-4d94-b27f-598c07d96857" name="Default" comment="&quot;30 days of code: 3 - change in strings&quot;">
-      <change afterPath="$PROJECT_DIR$/src/tests/testMinMax/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_3/IntroToConditionalStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution1/JavaStringsIntroduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution1/JavaStringsIntroduction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution10/UsernameValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution10/ValidUsernameRegularExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution3/JavaSubstringComparisons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution4/JavaStringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution5/JavaAnagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution6/JavaStringTokens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution7/PatternSyntaxChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution8/JavaRegex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution8/MyRegex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/Strings/Solution9/JavaRegex2_DuplicatedWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,15 +15,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Teste.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Teste.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tests/testMinMax/Teste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="240">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Operators.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_2/Operators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="79" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntroToConditionalStatements.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_3/IntroToConditionalStatements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaSubstringComparisons.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -76,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/Strings/Solution5/JavaAnagrams.java" />
         <option value="$PROJECT_DIR$/src/tests/testMinMax/Person.java" />
         <option value="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_3/IntroToConditionalStatements.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java" />
       </list>
     </option>
   </component>
@@ -93,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,14 +128,22 @@
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="testMinMax" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,25 +174,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Teste">
-    <configuration name="JavaDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.Solution8.JavaDataTypes" />
+  <component name="RunManager" selected="Application.JavaSubstringComparisons">
+    <configuration name="IntroToConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_3.IntroToConditionalStatements" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduction.Solution8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="JavaDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.Solution12.JavaDateAndTime" />
-      <module name="hackerRank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="introduction.Solution12.*" />
+          <option name="PATTERN" value="ThirtyDaysOfCode.Day_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,6 +193,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Strings.Solution1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JavaSubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Solution3.JavaSubstringComparisons" />
+      <module name="hackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.Solution3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,19 +272,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.JavaDataTypes" />
-      <item itemvalue="Application.JavaDateAndTime" />
       <item itemvalue="Application.Operators" />
       <item itemvalue="Application.JavaStringsIntroduction" />
       <item itemvalue="Application.Teste" />
+      <item itemvalue="Application.IntroToConditionalStatements" />
+      <item itemvalue="Application.JavaSubstringComparisons" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaSubstringComparisons" />
+        <item itemvalue="Application.IntroToConditionalStatements" />
+        <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.JavaStringsIntroduction" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.JavaDateAndTime" />
-        <item itemvalue="Application.JavaDataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -302,12 +328,12 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26556474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26887053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="7" />
@@ -349,7 +375,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution6/JavaLoopsI.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution7/javaLoopsII.java" />
@@ -398,13 +423,6 @@
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution10/JavaStaticInitializerBlock.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/DoNotTerminate.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution11/JavaIntToString.java" />
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_2/Operators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="79" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/Solution1/JavaStringsIntroduction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -421,7 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java" />
     <entry file="file://$PROJECT_DIR$/src/tests/testMinMax/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -431,11 +448,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/testMinMax/Teste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="240">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_2/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="79" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_3/IntroToConditionalStatements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
