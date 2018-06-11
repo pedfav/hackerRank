@@ -6,12 +6,12 @@ import java.util.List;
 
 public class Teste {
     public static void main(String[] args) {
-        Person obama = new Person("Barack Obama", 53);
-        Person bush2 = new Person("George Bush", 68);
-        Person clinton = new Person("Bill Clinton", 68);
-        Person bush1 = new Person("George HW Bush", 90);
+        Person brady = new Person("Tom Brady", 40);
+        Person rodgers = new Person("Aaron Rodgers", 42);
+        Person manning = new Person("Peyton Manning", 34);
+        Person brees = new Person("Drew Brees", 39);
 
-        Person[] personArray = new Person[] {obama, bush2, clinton, bush1};
+        Person[] personArray = new Person[] {brady, rodgers, manning, brees};
         List<Person> personList = Arrays.asList(personArray);
 
         //Find Oldest Person

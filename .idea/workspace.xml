@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db9cc53-ff8d-4d94-b27f-598c07d96857" name="Default" comment="&quot;30 days of code: 3 - change in strings&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Strings/Solution4/JavaStringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Solution5/JavaAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution10/UsernameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution10/ValidUsernameRegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution6/JavaStringTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution7/PatternSyntaxChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution8/JavaRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution8/MyRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Solution9/DuplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_5/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,41 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Teste.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/testMinMax/Teste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaSubstringComparisons.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaAnagrams.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Strings/Solution5/JavaAnagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,11 +59,22 @@
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_2/Operators.java" />
         <option value="$PROJECT_DIR$/src/Strings/Solution1/JavaStringsIntroduction.java" />
         <option value="$PROJECT_DIR$/src/tests/testMinMax/Person.java" />
-        <option value="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" />
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_3/IntroToConditionalStatements.java" />
         <option value="$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java" />
         <option value="$PROJECT_DIR$/src/Strings/Solution4/JavaStringReverse.java" />
         <option value="$PROJECT_DIR$/src/Strings/Solution5/JavaAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_4/ClassVsInstace.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_4/Person.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_5/Loops.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution6/JavaStringTokens.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution7/PatternSyntaxChecker.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution8/ValidUsernameRegularExpression.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution8/UsernameValidator.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution8/JavaRegex.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution8/MyRegex.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution9/JavaRegex2DuplicateWords.java" />
+        <option value="$PROJECT_DIR$/src/Strings/Solution9/DuplicateWords.java" />
       </list>
     </option>
   </component>
@@ -107,6 +93,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,27 +117,12 @@
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution5" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -182,58 +154,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaStringReverse">
-    <configuration name="IntroToConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_3.IntroToConditionalStatements" />
+  <component name="RunManager" selected="Application.DuplicateWords">
+    <configuration name="DuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Solution9.DuplicateWords" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Day_3.*" />
+          <option name="PATTERN" value="Strings.Solution9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaStringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Solution4.JavaStringReverse" />
+    <configuration name="JavaRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Solution8.JavaRegex" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.Solution4.*" />
+          <option name="PATTERN" value="Strings.Solution8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaSubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Solution3.JavaSubstringComparisons" />
+    <configuration name="JavaStringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Solution6.JavaStringTokens" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.Solution3.*" />
+          <option name="PATTERN" value="Strings.Solution6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_2.Operators" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_5.Loops" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Day_2.*" />
+          <option name="PATTERN" value="ThirtyDaysOfCode.Day_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.testMinMax.Teste" />
+    <configuration name="ValidUsernameRegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Solution10.ValidUsernameRegularExpression" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.testMinMax.*" />
+          <option name="PATTERN" value="Strings.Solution10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +252,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Operators" />
-      <item itemvalue="Application.Teste" />
-      <item itemvalue="Application.IntroToConditionalStatements" />
-      <item itemvalue="Application.JavaSubstringComparisons" />
-      <item itemvalue="Application.JavaStringReverse" />
+      <item itemvalue="Application.Loops" />
+      <item itemvalue="Application.JavaStringTokens" />
+      <item itemvalue="Application.ValidUsernameRegularExpression" />
+      <item itemvalue="Application.JavaRegex" />
+      <item itemvalue="Application.DuplicateWords" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaStringReverse" />
-        <item itemvalue="Application.JavaSubstringComparisons" />
-        <item itemvalue="Application.IntroToConditionalStatements" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.DuplicateWords" />
+        <item itemvalue="Application.JavaRegex" />
+        <item itemvalue="Application.ValidUsernameRegularExpression" />
+        <item itemvalue="Application.JavaStringTokens" />
+        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -325,8 +297,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="25" width="1861" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="49" y="25" width="1311" height="743" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="8" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -336,24 +307,43 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2754821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27035573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info id="Designer" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2754821" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="7" side_tool="true" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -365,33 +355,24 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="(meal_cost * (tip_percent/100))" language="JAVA" />
+        <watch expression="m.group()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>(meal_cost * (tip_percent/100))</expression-string>
+        <expression-string />
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution6/JavaLoopsI.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution7/javaLoopsII.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution4/JavaStdinAndStdoutII.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/ThirtyDaysOfCode/Day_0/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution5/JavaOutputFormatting.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution6/JavaLoopsI.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution7/javaLoopsII.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/Strings/Solution10/ValidUsernameRegularExpression.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution1/WelcomeToJava.java" />
     <entry file="file://$PROJECT_DIR$/src/javaTests/introduction/Solution2/JavaStdinAndStdoutI.java" />
@@ -466,16 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/testMinMax/Teste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/Solution3/JavaSubstringComparisons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -494,9 +465,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/testMinMax/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_5/Loops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution7/PatternSyntaxChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution6/JavaStringTokens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution10/ValidUsernameRegularExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution10/UsernameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution8/MyRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution9/DuplicateWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/Solution8/JavaRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
