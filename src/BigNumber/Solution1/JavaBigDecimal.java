@@ -1,5 +1,8 @@
 package BigNumber.Solution1;
 
+import java.math.BigDecimal;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class JavaBigDecimal {
@@ -14,7 +17,13 @@ public class JavaBigDecimal {
         sc.close();
         //Write your code here
 
-        System.out.println();
+        Arrays.sort(s,0,n,new Comparator<Object>(){
+            public int compare(Object a1, Object a2) {
+                BigDecimal bigDec1 = new BigDecimal((String)a1);
+                BigDecimal bigDec2 = new BigDecimal((String)a2);
+                return bigDec2.compareTo(bigDec1);
+            }
+        });
 
         //Output
         for(int i=0;i<n;i++)
