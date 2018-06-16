@@ -1,4 +1,4 @@
-package BigNumber.Solution3;
+package DataStructures.Solution3;
 
 import java.util.ArrayList;
 import java.util.List;
