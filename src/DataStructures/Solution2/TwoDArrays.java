@@ -1,4 +1,4 @@
-package ThirtyDaysOfCode.Day_11;
+package DataStructures.Solution2;
 
 import java.util.Scanner;
 
