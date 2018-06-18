@@ -1,4 +1,4 @@
-package DataStructures.Solution3;
+package DataStructures.Solution2;
 
 import java.util.ArrayList;
 import java.util.List;
