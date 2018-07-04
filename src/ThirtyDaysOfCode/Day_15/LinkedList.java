@@ -4,10 +4,17 @@ import java.util.Scanner;
 
 public class LinkedList {
 
-    public static Node insert(Node head,int data) {
-        //Complete this method
-
-        return null;
+    public static  Node insert(Node head,int data) {
+    //Complete this method
+        if(head == null)
+            return new Node(data);
+        else if(head.next == null){
+            head.next = new Node(data);
+        }
+        else{
+            insert(head.next,data);
+        }
+        return head;
     }
 
     public static void display(Node head) {

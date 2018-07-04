@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0590bf7c-f140-4a53-9cf8-3d3eab74f289" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Solution1/Java1DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_13/AbstractClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_13/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_13/MyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_16/ExceptionsStringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17/MoreExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hackerRank.iws" beforeDir="false" afterPath="$PROJECT_DIR$/hackerRank.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/ThirtyDaysOfCode/Day_15/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/ThirtyDaysOfCode/Day_15/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/ThirtyDaysOfCode/Day_15/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/ThirtyDaysOfCode/Day_15/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +24,8 @@
       <file leaf-file-name="Java1DArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DataStructures/Solution1/Java1DArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="252">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,13 +57,19 @@
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_13/AbstractClasses.java" />
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_13/MyBook.java" />
         <option value="$PROJECT_DIR$/src/DataStructures/Solution1/Java1DArray.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_16/ExceptionsStringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17/MoreExceptions.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17/Calculator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="98" />
-    <option name="y" value="172" />
-    <option name="width" value="1291" />
+    <option name="x" value="75" />
+    <option name="y" value="233" />
+    <option name="width" value="1281" />
     <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -73,7 +82,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,19 +98,19 @@
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="BigNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java1DArray">
+  <component name="RunManager" selected="Application.MoreExceptions">
     <configuration name="AbstractClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_13.AbstractClasses" />
       <module name="hackerRank" />
@@ -138,13 +146,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DictionariesAndMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_8.DictionariesAndMaps" />
+    <configuration name="ExceptionsStringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_16.ExceptionsStringToInteger" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Day_8.*" />
+          <option name="PATTERN" value="ThirtyDaysOfCode.Day_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,13 +179,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_9.Recursion" />
+    <configuration name="MoreExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_17.MoreExceptions" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Day_9.*" />
+          <option name="PATTERN" value="ThirtyDaysOfCode.Day_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,19 +232,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DictionariesAndMaps" />
-      <item itemvalue="Application.Recursion" />
       <item itemvalue="Application.JavaBigInteger" />
       <item itemvalue="Application.AbstractClasses" />
       <item itemvalue="Application.Java1DArray" />
+      <item itemvalue="Application.ExceptionsStringToInteger" />
+      <item itemvalue="Application.MoreExceptions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoreExceptions" />
+        <item itemvalue="Application.ExceptionsStringToInteger" />
         <item itemvalue="Application.Java1DArray" />
         <item itemvalue="Application.AbstractClasses" />
         <item itemvalue="Application.JavaBigInteger" />
-        <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.DictionariesAndMaps" />
       </list>
     </recent_temporary>
   </component>
@@ -262,8 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="25" width="1311" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="53" y="25" width="1307" height="743" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -273,13 +280,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295082" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19762845" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22442506" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -307,13 +314,101 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructures/Solution1/Java1DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BigNumber/Solution3/JavaBigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="54" selection-start-line="9" selection-start-column="8" selection-end-line="13" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -321,9 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,9 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="54" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="13" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -341,9 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -361,23 +447,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_07/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_07/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_8/DictionariesAndMaps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="53" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="53" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackerRank.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2777" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hackerRank.iml">
@@ -407,13 +482,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_07/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_07/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_9/output" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -461,9 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,9 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="54" selection-start-line="9" selection-start-column="8" selection-end-line="13" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,13 +554,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructures/Solution3/JavaArraylist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructures/Solution2/JavaArraylist.java" />
     <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_13/MyBook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -505,10 +562,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hackerRank.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_14/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/combnation/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_16/ExceptionsStringToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_15/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode/Day_17/MoreExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructures/Solution1/Java1DArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="252">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
