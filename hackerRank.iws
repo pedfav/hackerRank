@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0590bf7c-f140-4a53-9cf8-3d3eab74f289" name="Default" comment="">
+    <list default="true" id="0590bf7c-f140-4a53-9cf8-3d3eab74f289" name="Default" comment="testes">
+      <change afterPath="$PROJECT_DIR$/src/others/RunSingleTrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/TrafficLight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hackerRank.iws" beforeDir="false" afterPath="$PROJECT_DIR$/hackerRank.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution1/WelcomeToJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution1/WelcomeToJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution10/JavaStaticInitializerBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution10/JavaStaticInitializerBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution11/DoNotTerminate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution11/DoNotTerminate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution11/JavaIntToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution11/JavaIntToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution12/JavaDateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution12/JavaDateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution13/JavaCurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution13/JavaCurrencyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution2/JavaStdinAndStdoutI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution2/JavaStdinAndStdoutI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution3/JavaIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution3/JavaIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution4/JavaStdinAndStdoutII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution4/JavaStdinAndStdoutII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution5/JavaOutputFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution5/JavaOutputFormatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution6/JavaLoopsI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution6/JavaLoopsI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution7/javaLoopsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution7/javaLoopsII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution8/JavaDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution8/JavaDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Solution9/JavaEndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/Solution9/JavaEndOfFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/combnation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/combnation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/testMinMax/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/testMinMax/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/testMinMax/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/testMinMax/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/combnation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/combnation/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -45,6 +34,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -56,7 +48,7 @@
       <recent name="ipk" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SolveMeFirst">
+  <component name="RunManager" selected="Application.RunSingleTrafficLight">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_0.HelloWorld" />
       <module name="hackerRank" />
@@ -71,27 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.Solution1.Java1DArray" />
+    <configuration name="RunSingleTrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.RunSingleTrafficLight" />
       <module name="hackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructures.Solution1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueuesAndStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_18.QueuesAndStacks" />
-      <module name="hackerRank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Day_18.*" />
+          <option name="PATTERN" value="others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,9 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+    <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch (2)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Java1DArray" />
-      <item itemvalue="Application.QueuesAndStacks" />
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Java Scratch.Scratch" />
       <item itemvalue="Application.SolveMeFirst" />
+      <item itemvalue="Java Scratch.Scratch (1)" />
+      <item itemvalue="Java Scratch.Scratch (2)" />
+      <item itemvalue="Application.RunSingleTrafficLight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunSingleTrafficLight" />
+        <item itemvalue="Java Scratch.Scratch (1)" />
+        <item itemvalue="Java Scratch.Scratch (2)" />
         <item itemvalue="Application.SolveMeFirst" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Java Scratch.Scratch" />
-        <item itemvalue="Application.Java1DArray" />
-        <item itemvalue="Application.QueuesAndStacks" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528759774980</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testes">
+      <created>1614533800680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614533800680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
