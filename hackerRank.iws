@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0590bf7c-f140-4a53-9cf8-3d3eab74f289" name="Default" comment="testes">
-      <change afterPath="$PROJECT_DIR$/src/others/RunSingleTrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/others/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewPreparationKit/Solution1/SalesByMatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hackerRank.iws" beforeDir="false" afterPath="$PROJECT_DIR$/hackerRank.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/combnation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/combnation/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/tests/testMinMax/Teste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,21 +44,7 @@
       <recent name="ipk" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunSingleTrafficLight">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Day_0.HelloWorld" />
-      <module name="hackerRank" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Day_0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SalesByMatch">
     <configuration name="RunSingleTrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="others.RunSingleTrafficLight" />
       <module name="hackerRank" />
@@ -70,6 +52,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesByMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewPreparationKit.Solution1.SalesByMatch" />
+      <module name="hackerRank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewPreparationKit.Solution1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.SolveMeFirst" />
+      <item itemvalue="Application.RunSingleTrafficLight" />
       <item itemvalue="Java Scratch.Scratch (1)" />
       <item itemvalue="Java Scratch.Scratch (2)" />
-      <item itemvalue="Application.RunSingleTrafficLight" />
+      <item itemvalue="Application.SalesByMatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SalesByMatch" />
         <item itemvalue="Application.RunSingleTrafficLight" />
         <item itemvalue="Java Scratch.Scratch (1)" />
         <item itemvalue="Java Scratch.Scratch (2)" />
         <item itemvalue="Application.SolveMeFirst" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -170,12 +166,30 @@
       <option name="project" value="LOCAL" />
       <updated>1614533800680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testes">
+      <created>1615602236137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615602236137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testes" />
     <option name="LAST_COMMIT_MESSAGE" value="testes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPreparationKit/Solution1/SalesByMatch.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
